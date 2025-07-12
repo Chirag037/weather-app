@@ -14,7 +14,7 @@ A simple and interactive command-line Python app to get real-time weather data b
 ---
 
 ## 🖥️ Demo
-
+  
 ```bash
 $ python main.py
 🌦️ Weather CLI App
