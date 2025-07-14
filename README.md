@@ -6,7 +6,7 @@ A simple and interactive command-line Python app to get real-time weather data b
 
 ## 🚀 Features
 
-- 🔍 Get weather by **city name**
+- 🔍 Get weather by **city name**  
 - 📍 Get weather by **latitude & longitude**
 - 🌡️ Displays temperature, humidity, wind speed, and weather conditions
 - 📦 Built using `requests` library and OpenWeatherMap API
